@@ -38,6 +38,7 @@ keras
 
 ## To Run gesture detecion using trained model:
 ### Required installs for gesture detection:
+tensorflow
 cv2
 numpy
 keras.models
