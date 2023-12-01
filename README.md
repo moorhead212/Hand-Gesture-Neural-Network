@@ -1,9 +1,9 @@
 ﻿# Hand-Gesture-Neural-Network
 Created By: Kyle Moorhead
 
-Dataset: HAGrid (https://www.kaggle.com/datasets/kapitanov/hagrid)
-
 Created for COSC 480
+
+Dataset: HAGrid (https://www.kaggle.com/datasets/kapitanov/hagrid)
 
 ## Training Information:
 Dataset trained - HAGrid dataset, using "one", "palm", "peace" gestures.
@@ -38,10 +38,14 @@ keras
 
 ## To Run gesture detecion using trained model:
 ### Required installs for gesture detection:
+tensorflow
 cv2
 numpy
 keras.models
 
 ### Running detect_gestures_webcam.py:
 1. Open "detect_gestures_webcam.py" (NOTE: Webcam required)
-2. Run "detect_gestures_webcam.py" 
+2. Run "detect_gestures_webcam.py"
+
+# Documentation of the process and progress throughout attempts at training:
+https://docs.google.com/document/d/1apZUvSmRbopff_uzoOw5pZexE9sPqvNnSuoGjLeR74I/edit#heading=h.p8rudangs5xs
