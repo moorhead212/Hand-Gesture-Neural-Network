@@ -1,6 +1,8 @@
 ﻿# Hand-Gesture-Neural-Network
 Created By: Kyle Moorhead
+
 Created for COSC 480
+
 Dataset: HAGrid (https://www.kaggle.com/datasets/kapitanov/hagrid)
 
 ## Training Information:
