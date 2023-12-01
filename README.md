@@ -44,4 +44,7 @@ keras.models
 
 ### Running detect_gestures_webcam.py:
 1. Open "detect_gestures_webcam.py" (NOTE: Webcam required)
-2. Run "detect_gestures_webcam.py" 
+2. Run "detect_gestures_webcam.py"
+
+# Documentation of the process and progress throughout attempts at training:
+https://docs.google.com/document/d/1apZUvSmRbopff_uzoOw5pZexE9sPqvNnSuoGjLeR74I/edit#heading=h.p8rudangs5xs
