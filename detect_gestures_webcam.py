@@ -47,6 +47,9 @@ while True:
         print("Error: Can't receive frame. Exiting ...")
         break
 
+    # Flips frame so it looks natural
+    frame = cv2.flip(frame, 1)
+
     # Recognize the gesture
     recognized_gesture, max_confidence = recognize_gesture(frame)
 
