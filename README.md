@@ -1,9 +1,7 @@
 ﻿# Hand-Gesture-Neural-Network
 Created By: Kyle Moorhead
-
-Dataset: HAGrid (https://www.kaggle.com/datasets/kapitanov/hagrid)
-
 Created for COSC 480
+Dataset: HAGrid (https://www.kaggle.com/datasets/kapitanov/hagrid)
 
 ## Training Information:
 Dataset trained - HAGrid dataset, using "one", "palm", "peace" gestures.
