@@ -51,6 +51,3 @@ keras
 ### Running nn_trainin.py:
 1. Open nn_training.py, change gestures_classes to match the gestures you are training.
 2. Adjust Hyperparameters as you see fit. The current seemed to produce the best results. 
-
-# Documentation of the process and progress throughout attempts at training:
-https://docs.google.com/document/d/1apZUvSmRbopff_uzoOw5pZexE9sPqvNnSuoGjLeR74I/edit#heading=h.p8rudangs5xs
