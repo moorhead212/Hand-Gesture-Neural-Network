@@ -17,12 +17,12 @@ cv2
 numpy
 keras.models
 
-# Info for Training  
-
 ### Running detect_gestures_webcam.py:
 1. Open "detect_gestures_webcam.py" (NOTE: Webcam required)
 2. Run "detect_gestures_webcam.py"
 
+
+# Info for Training  
 
 ## To run pre_process_images:
 ### Required installs/imports for pre_process_imgaes.py:
